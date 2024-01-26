@@ -1,0 +1,37 @@
+<resources>
+    <string name="activityImc">Cálculo do Imc</string>
+
+    <!--Textos da activity_imc.xml-->
+    <string name="app_name">My App</string>
+    <string name="tituloImc">Cálculo do IMC - índice de Massa Corpórea</string>
+    <string name="altura">Informe sua altura</string>
+    <string name="peso">Informe seu peso</string>
+    <string name="btnCalcular">Calcular</string>
+
+    <!--Textos dos resultados-->
+    <string name="result0Titulo">ABAIXO DO PESO</string>
+    <string name="result0Calculo">17 a 18,4 kg/m2</string>
+    <string name="result0Laudo">Fadiga, stress, ansiedade</string>
+
+    <string name="result1Titulo">PESO NORMAL</string>
+    <string name="result1Calculo">18,5 a 24,9 kg/m2</string>
+    <string name="result1Laudo"> risco de doenças cardíacas e vasculares</string>
+
+    <string name="result2Titulo">ACIMA DP PESO</string>
+    <string name="result2Calculo">25 a 29,9 kg/m2</string>
+    <string name="result2Laudo">Fadiga, má circulação, varizes</string>
+
+    <string name="result3Titulo">OBESIDADE GRAU I</string>
+    <string name="result3Calculo">30 a 34,9 kg/m2</string>
+    <string name="result3Laudo">Diabetes, angina, infarto, aterosclerose</string>
+
+    <string name="result4Titulo">OBESIDADE GRAU II</string>
+    <string name="result4Calculo">35 a 40 kg/m2</string>
+    <string name="result4Laudo">Apneia do sono, falta de ar</string>
+
+    <string name="result5Titulo">OBESIDADE GRAU III</string>
+    <string name="result5Calculo">maior que 40 kg/m2</string>
+    <string name="result5Laudo">Refluxo, dificuldade para se mover, escaras, diabetes, infarto, AVC</string>
+
+
+</resources>
